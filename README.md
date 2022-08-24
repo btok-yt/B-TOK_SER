@@ -1,8 +1,8 @@
 
-# AMRUSER-MD
+# B-TOK_SER
 
 <p align="center">
-  <a href="https://www.instagram.com/_its_me_dron/"><img src="https://i.imgur.com/O5puGK7.jpeg" width="500" alt="Profile"/> </a>
+  <a href="https://www.instagram.com/_its_me_dron/"><img src="SAVE_20220527_092444.jpg" width="500" alt="Profile"/> </a>
 </p>
 <p align="center">
 AMRU-SER Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/AMRUSIR" target="_blank">AMRU</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star 🍭.
